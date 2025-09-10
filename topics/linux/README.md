@@ -17,6 +17,11 @@ In this module, you’ll learn how to navigate, configure, and manage Linux syst
 - Use `chmod`, `chown`, and `ps`
 - Write a simple shell script
 
+## 🎯 Contribution Ideas
+- Add step-by-step labs
+- Share troubleshooting guides
+- Provide diagrams / cheat-sheets
+
 ## 📚 Resources
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - [ExplainShell](https://explainshell.com/)
