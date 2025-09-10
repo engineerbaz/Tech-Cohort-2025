@@ -37,7 +37,8 @@ We focus on the most in-demand tech & career skills:
 
 ### 🔗 Technology Cohort Links   
 👉 [**Website**](https://baztechknow.com/technology-cohort-2025)  
-🧑‍💻[**YouTube Playlist**](https://www.youtube.com/playlist?list=PLMxmGV3YVXCKoeptvRHmGVsg_50kL6SXu)
+
+🧑‍💻[**YouTube Playlist**](https://www.youtube.com/playlist?list=PLMxmGV3YVXCKoeptvRHmGVsg_50kL6SXu) 
 
 💫 [**Git Repo**](https://github.com/engineerbaz/Tech-Cohort-2025)
 
