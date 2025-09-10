@@ -1,48 +1,44 @@
-# 🚀 Technology Cohort 2025
+# 📘 Technology Cohort 2025  
 
-A **free, community-driven learning initiative** for tech professionals, students, and enthusiasts.  
-Weekly **live sessions**, **real-world projects**, and a **supportive peer community**.  
+![Cohort Banner](./og-banner.png)  
 
-🌍 Together, we’ll **Learn. Build. Grow.**
-
----
-
-## 🌟 What You’ll Learn
-- Linux Fundamentals 🐧
-- Git & Collaboration 🔗
-- Docker & Containerization 🐳
-- Huawei Cloud ☁️
-- System Design 🏗️
-- Kubernetes ⚓
-- LinkedIn Growth 🌐
-- Interview Prep 🎯
+> 🚀 A **free, community-based initiative** offering weekly live sessions, hands-on projects, and peer learning on Linux, Docker, Kubernetes, Cloud, Git, System Design, LinkedIn growth, and Interview Prep.  
 
 ---
 
-## 📂 Repository Structure
-This repo contains:
-- `index.html` → Landing page hosted on GitHub Pages  
-- `topics/` → Subfolders with resources, labs, and notes  
-- `CONTRIBUTING.md` → Guidelines for community contributions  
+## ✨ What is Tech Cohort 2025?  
+
+Technology Cohort 2025 is a **community learning program** where we come together to:  
+- ✅ Learn real-world technologies through **weekly live interactive sessions**  
+- ✅ Work on **hands-on projects with personalized feedback**  
+- ✅ Share, collaborate, and grow in a **supportive peer community**  
+- ✅ Prepare for **technical interviews and professional growth**  
+
+And the best part: **It’s 100% FREE** 🎉  
 
 ---
 
-## 🔗 Live Website
-👉 [https://YOUR-USERNAME.github.io/tech-cohort-2025/](https://YOUR-USERNAME.github.io/tech-cohort-2025/)
+## 📂 Topics Covered  
+
+We focus on the most in-demand tech & career skills:  
+
+- 🐧 [Linux Basics](./topics/linux/README.md)  
+- 🔗 [Git & Collaboration](./topics/git/README.md)  
+- 🐳 [Docker & Containerization](./topics/docker/README.md)  
+- ⚓ [Kubernetes](./topics/kubernetes/README.md)  
+- ☁️ [Huawei Cloud](./topics/huawei-cloud/README.md)  
+- 🏗️ [System Design](./topics/system-design/README.md)  
+- 🌐 [LinkedIn Growth](./topics/linkedin-growth/README.md)  
+- 🎯 [Interview Preparation](./topics/interview-prep/README.md)  
 
 ---
 
-## 🙌 How to Join
-1. Fill out the application form → [Form Link](https://your-form-link-here.com)  
-2. Attend weekly live sessions  
-3. Contribute by sharing resources, notes, or projects  
+## 🛠️ Getting Started  
 
----
+### 🔗 Visit the Cohort Website  
+👉 [**Tech Cohort 2025 – Live Website**](https://YOUR-GITHUB-USERNAME.github.io/tech-cohort-2025)  
 
-## 🤝 Contributions
-This is a **community-first initiative** — contributions are welcome!  
-Check out the [Contributing Guide](CONTRIBUTING.md) to get started.  
-
----
-
-### Built with ❤️ for the Tech Community
+### 📥 Clone the Repo  
+```bash
+git clone https://github.com/YOUR-GITHUB-USERNAME/tech-cohort-2025.git
+cd tech-cohort-2025
