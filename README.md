@@ -34,6 +34,7 @@ We focus on the most in-demand tech & career skills:
 
 👥 𝐖𝐡𝐨’𝐬 𝐁𝐞𝐡𝐢𝐧𝐝 𝐓𝐡𝐢𝐬?
 This initiative is led by [BASHIR AHMED ZEESHAN](https://www.linkedin.com/in/bashirahmedzeeshan/), a Cloud & DevOps Consultant with experience in training professionals on Linux, Cloud, Kubernetes, and more. Having mentored hundreds of learners, Zeeshan believes in community-first learning that prepares you for the real world.
+
 ---
 
 ## 🛠️ Getting Started  
