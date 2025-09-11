@@ -49,5 +49,5 @@ This initiative is led by [BASHIR AHMED ZEESHAN](https://www.linkedin.com/in/bas
 
 ### 📥 Clone the Repo  
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/tech-cohort-2025.git
+git clone https://github.com/engineerbaz/tech-cohort-2025.git
 cd tech-cohort-2025
