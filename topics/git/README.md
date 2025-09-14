@@ -10,7 +10,7 @@ Here you’ll master Git basics and learn how to collaborate effectively on proj
 - Remote repositories (GitHub)
 - Pull requests & collaboration
 - Resolving conflicts
-- Git workflows (Git Flow, trunk-based)
+- Git workflows 
 
 ## 🛠️ Hands-On Exercises
 - Initialize a new repo
