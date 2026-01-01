@@ -42,7 +42,7 @@ This initiative is led by [BASHIR AHMED ZEESHAN](https://www.linkedin.com/in/bas
 ### 🔗 Technology Cohort Links   
 👉 [**Website**](https://baztechknow.com/technology-cohort-2025)  
 
-🧑‍💻[**YouTube Playlist**](https://www.youtube.com/playlist?list=PLMxmGV3YVXCKoeptvRHmGVsg_50kL6SXu) 
+🧑‍💻[**YouTube Playlist**](https://www.youtube.com/playlist?list=PLMxmGV3YVXCKoeptvRHmGVsg_50kL6SXu) Check out all recordings
 
 💫 [**Git Repo**](https://github.com/engineerbaz/Tech-Cohort-2025)
 
